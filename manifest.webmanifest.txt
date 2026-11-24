@@ -1,0 +1,11 @@
+{
+  "id": "./",
+  "name": "Kalkulator stali",
+  "short_name": "Stal",
+  "lang": "pl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf4fb",
+  "theme_color": "#edf4fb"
+}
